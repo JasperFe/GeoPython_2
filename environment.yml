@@ -1,0 +1,47 @@
+name: GCCA-Geopython
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipython
+  - jupyter
+  - jupyterlab>3
+  - numpy
+  - pandas
+  - xarray
+  - geopandas
+  - pygeos
+  - rasterio
+  - owslib
+  - rasterstats
+  - matplotlib=3.5
+  - mapclassify
+  - cartopy
+  - contextily
+  - geoplot
+  - fsspec
+  - s3fs
+  - dask
+  - distributed
+  - dask-labextension
+  - bokeh
+  - jupyter_bokeh
+  - intake
+  - intake-xarray
+  - ipympl
+  - ipyleaflet
+  - folium
+  - seaborn
+  - hvplot
+  - geoviews
+  - datashader
+  - cmocean 
+  - pygeoprocessing
+  - zarr
+  - h5netcdf
+  - h5py
+  - cfgrib
+  - pooch
+  - rioxarray
+  - xarray-spatial
+  - pyepsg

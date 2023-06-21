@@ -1,0 +1,1 @@
+plotdata[plotdata['SU'] == 15]
